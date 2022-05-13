@@ -10,10 +10,17 @@
     "dts": "tsc --build ./src",
     "build": "$npm_execpath run dts && $npm_execpath run swc",
     "lint": "eslint .",
-    "format": "prettier --check ."
+    "format": "prettier --check .",
+    "release": "semantic-release"
   },
   "devDependencies": {
     "@alexghr/ts": "^1.0.1",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.4",
+    "@semantic-release/npm": "^9.0.1",
+    "@semantic-release/release-notes-generator": "^10.0.3",
     "@swc/cli": "^0.1.57",
     "@swc/core": "^1.2.182",
     "@types/node": "^14.0.0",
