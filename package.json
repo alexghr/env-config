@@ -1,7 +1,7 @@
 {
   "name": "@alexghr/env-config",
   "version": "0.0.0",
-  "repository": "git@github.com:alexghr/env-config.git",
+  "repository": "https://github.com/alexghr/env-config.git",
   "author": "Alex Gherghisan <alexghr@users.noreply.github.com>",
   "license": "MIT",
   "type": "module",
