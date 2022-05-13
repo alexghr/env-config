@@ -21,4 +21,3 @@ export function getEnvVar<T>(
     throw new TypeError(`Missing required environment variable: ${envVarName}`);
   };
 }
-
