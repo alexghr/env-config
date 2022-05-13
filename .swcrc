@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/swcrc.json",
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    },
+    "target": "es2020",
+    "loose": false,
+    "externalHelpers": false
+  },
+  "module": {
+    "type": "es6",
+    "strictMode": true
+  }
+}
