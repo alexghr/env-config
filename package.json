@@ -1,6 +1,6 @@
 {
   "name": "@alexghr/env-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "https://github.com/alexghr/env-config.git",
   "author": "Alex Gherghisan <alexghr@users.noreply.github.com>",
   "license": "MIT",
@@ -10,7 +10,9 @@
   },
   "typesVersions": {
     "*": {
-      "*": ["./dist"]
+      "*": [
+        "./dist"
+      ]
     }
   },
   "scripts": {
