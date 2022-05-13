@@ -1,0 +1,6 @@
+src/
+yarn.lock
+release.config.cjs
+.*
+*.log
+*.tgz
