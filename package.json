@@ -5,6 +5,14 @@
   "author": "Alex Gherghisan <alexghr@users.noreply.github.com>",
   "license": "MIT",
   "type": "module",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "typesVersions": {
+    "*": {
+      "*": ["./dist"]
+    }
+  },
   "scripts": {
     "swc": "swc ./src -d ./dist",
     "dts": "tsc --build ./src",
