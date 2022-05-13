@@ -15,6 +15,9 @@
       ]
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "swc": "swc ./src -d ./dist",
     "dts": "tsc --build ./src",
