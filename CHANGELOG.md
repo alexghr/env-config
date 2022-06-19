@@ -1,3 +1,5 @@
+## [1.0.3](https://github.com/alexghr/env-config/compare/v1.0.2...v1.0.3) (2022-06-19)
+
 ## [1.0.2](https://github.com/alexghr/env-config/compare/v1.0.1...v1.0.2) (2022-05-13)
 
 
