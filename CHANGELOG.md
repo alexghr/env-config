@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/alexghr/env-config/compare/v1.0.3...v1.0.4) (2022-06-19)
+
+
+### Bug Fixes
+
+* actually return the value ([9024428](https://github.com/alexghr/env-config/commit/9024428d465da4958355dbe0ae0c322cc5467645))
+
 ## [1.0.3](https://github.com/alexghr/env-config/compare/v1.0.2...v1.0.3) (2022-06-19)
 
 ## [1.0.2](https://github.com/alexghr/env-config/compare/v1.0.1...v1.0.2) (2022-05-13)
