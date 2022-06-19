@@ -18,6 +18,10 @@ export function getEnvVar<T>(
       return defaultValue;
     }
 
+    if (typeof val !== "undefined") {
+      return val;
+    }
+
     throw new TypeError(`Missing required environment variable: ${envVarName}`);
   };
 }
